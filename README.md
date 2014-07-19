@@ -19,7 +19,12 @@ Why, yes. Yes, it is. And if the primary joy you get from the game is the hard c
 
 ###Getting the app:   
 
-1. Click the Download as Zip button and save the file to your computer. 
+
+
+1. <a href="/chriskiehl/DoNotStarveBackupExecutable/archive/master.zip" class="minibutton sidebar-button" aria-label="Download chriskiehl/DoNotStarveBackupExecutable as a zip file" title="Download chriskiehl/DoNotStarveBackupExecutable as a zip file" rel="nofollow">
+                  <span class="octicon octicon-cloud-download"></span>
+                  Download
+                </a> and save the file to your computer. 
 2. Unzip the contents 
 3. Done! 
 
