@@ -27,8 +27,7 @@ Why, yes. Yes, it is. And if the primary joy you get from the game is the hard c
 <img src="http://i.imgur.com/JSehft4.png" align=right width="400">
 The first time you run the program it will have to do a little find where all of your Don't Starve save files are stored. It could take a little while if you keep your games in a non-standard directory. Once it's found what it needs, a green "Done!" message will appear. You can then close the window and begin using the program. 
 
-<br><br><br><br><br>
-
+<br><br><br><br><br><br>
 ###Basic Usage: 
 
 <img src="http://i.imgur.com/k45Rw2H.png" align="left" width=450>
@@ -43,7 +42,7 @@ Click the `Start Backup` button to begin the program. While it is in save mode, 
 If (when) you die, you can restore a previous save by clicking the `restore` button on the main window. This will open up a list of all the available restore points. Simply select the save you want, click `Restore!`, and you're all set! Launch the Game and you find Maxwell alive and well. 
 
 
-<br><br><br><br><br>  
+<br><br><br>
 
 
 ###Notes: 
