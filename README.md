@@ -21,7 +21,7 @@ Why, yes. Yes, it is. And if the primary joy you get from the game is the hard c
 
 
 
-1. <a href="/chriskiehl/DoNotStarveBackupExecutable/archive/master.zip" class="minibutton sidebar-button" aria-label="Download chriskiehl/DoNotStarveBackupExecutable as a zip file" title="Download chriskiehl/DoNotStarveBackupExecutable as a zip file" rel="nofollow">
+1. <a href="https://github.com/chriskiehl/DoNotStarveBackupExecutable/archive/master.zip" class="minibutton sidebar-button" aria-label="Download chriskiehl/DoNotStarveBackupExecutable as a zip file" title="Download chriskiehl/DoNotStarveBackupExecutable as a zip file" rel="nofollow">
                   <span class="octicon octicon-cloud-download"></span>
                   Download
                 </a> and save the file to your computer. 
